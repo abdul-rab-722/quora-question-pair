@@ -1,6 +1,7 @@
 venv/
+.idea/
+__pycache__/
+dataset/
 .ipynb_checkpoints/
-initial_EDA.ipynb
-only-bow.ipynb
-bow-with-basic-features.ipynb
-bow-with-preprocessing-and-advanced-features.ipynb
+cv.pkl
+model.pkl
