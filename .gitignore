@@ -1,7 +1,7 @@
 venv/
-.idea/
-__pycache__/
+__pycache__
 dataset/
 .ipynb_checkpoints/
-cv.pkl
-model.pkl
+cv.pkl/
+model.pkl/
+.idea
